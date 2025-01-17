@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "l5yirckHQo/dQz+YaUWdmtvBZQNcK0xtcPUgYWCHVU4=",
+  "Source": "TaskJunction.WebAPI",
+  "BasePath": "_content/TaskJunction.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

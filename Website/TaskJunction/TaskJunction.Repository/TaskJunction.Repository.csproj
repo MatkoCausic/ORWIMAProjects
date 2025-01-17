@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="8.2.0" />
+    <PackageReference Include="Npgsql" Version="9.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskJunction.Models\TaskJunction.Models.csproj" />
+    <ProjectReference Include="..\TaskJunction.Repository.Common\TaskJunction.Repository.Common.csproj" />
+    <ProjectReference Include="..\TaskJunction.Service.Common\TaskJunction.Service.Common.csproj" />
+  </ItemGroup>
+
+</Project>

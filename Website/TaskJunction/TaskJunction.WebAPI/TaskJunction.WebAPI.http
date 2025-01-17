@@ -1,0 +1,6 @@
+@TaskJunction.WebAPI_HostAddress = http://localhost:5014
+
+GET {{TaskJunction.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

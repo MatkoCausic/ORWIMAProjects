@@ -1,0 +1,11 @@
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\obj\Debug\net8.0\TaskJunction.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\obj\Debug\net8.0\TaskJunction.Models.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\obj\Debug\net8.0\TaskJunction.Models.AssemblyInfo.cs
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\obj\Debug\net8.0\TaskJunction.Models.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\bin\Debug\net8.0\TaskJunction.Models.deps.json
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\bin\Debug\net8.0\TaskJunction.Models.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\bin\Debug\net8.0\TaskJunction.Models.pdb
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\obj\Debug\net8.0\TaskJunction.Models.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\obj\Debug\net8.0\refint\TaskJunction.Models.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\obj\Debug\net8.0\TaskJunction.Models.pdb
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Models\obj\Debug\net8.0\ref\TaskJunction.Models.dll

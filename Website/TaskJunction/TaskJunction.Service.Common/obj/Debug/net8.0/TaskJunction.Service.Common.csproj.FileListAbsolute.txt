@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\TaskJunction.Service.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\TaskJunction.Service.Common.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\TaskJunction.Service.Common.AssemblyInfo.cs
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\TaskJunction.Service.Common.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\bin\Debug\net8.0\TaskJunction.Service.Common.deps.json
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\bin\Debug\net8.0\TaskJunction.Service.Common.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\bin\Debug\net8.0\TaskJunction.Service.Common.pdb
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\bin\Debug\net8.0\TaskJunction.Models.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\bin\Debug\net8.0\TaskJunction.Models.pdb
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\TaskJunction.Service.Common.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\TaskJunc.1E88993D.Up2Date
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\TaskJunction.Service.Common.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\refint\TaskJunction.Service.Common.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\TaskJunction.Service.Common.pdb
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Service.Common\obj\Debug\net8.0\ref\TaskJunction.Service.Common.dll

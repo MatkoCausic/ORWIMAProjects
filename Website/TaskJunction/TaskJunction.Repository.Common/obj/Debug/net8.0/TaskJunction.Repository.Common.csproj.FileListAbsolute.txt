@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\bin\Debug\net8.0\TaskJunction.Repository.Common.deps.json
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\bin\Debug\net8.0\TaskJunction.Repository.Common.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\bin\Debug\net8.0\TaskJunction.Repository.Common.pdb
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\bin\Debug\net8.0\TaskJunction.Models.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\bin\Debug\net8.0\TaskJunction.Models.pdb
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\TaskJunction.Repository.Common.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\TaskJunction.Repository.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\TaskJunction.Repository.Common.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\TaskJunction.Repository.Common.AssemblyInfo.cs
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\TaskJunction.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\TaskJunc.2FE4C9CF.Up2Date
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\TaskJunction.Repository.Common.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\refint\TaskJunction.Repository.Common.dll
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\TaskJunction.Repository.Common.pdb
+C:\Users\gabri\Desktop\ORWIMAProjects\Website\TaskJunction\TaskJunction.Repository.Common\obj\Debug\net8.0\ref\TaskJunction.Repository.Common.dll

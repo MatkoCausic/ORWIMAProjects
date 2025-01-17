@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewh1eSJSi5E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Repository.Common\\TaskJunction.Repository.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC2278A-16F5-4BE3-BA31-98E95C4F98BB}|TaskJunction.WebAPI\\TaskJunction.WebAPI.csproj|c:\\users\\gabri\\desktop\\orwimaprojects\\website\\taskjunction\\taskjunction.webapi\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC2278A-16F5-4BE3-BA31-98E95C4F98BB}|TaskJunction.WebAPI\\TaskJunction.WebAPI.csproj|solutionrelative:taskjunction.webapi\\controllers\\workercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC2278A-16F5-4BE3-BA31-98E95C4F98BB}|TaskJunction.WebAPI\\TaskJunction.WebAPI.csproj|c:\\users\\gabri\\desktop\\orwimaprojects\\website\\taskjunction\\taskjunction.webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC2278A-16F5-4BE3-BA31-98E95C4F98BB}|TaskJunction.WebAPI\\TaskJunction.WebAPI.csproj|solutionrelative:taskjunction.webapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB16E77-2D92-4242-8142-6AF8BC8F97B9}|TaskJunction.Service\\TaskJunction.Service.csproj|c:\\users\\gabri\\desktop\\orwimaprojects\\website\\taskjunction\\taskjunction.service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB16E77-2D92-4242-8142-6AF8BC8F97B9}|TaskJunction.Service\\TaskJunction.Service.csproj|solutionrelative:taskjunction.service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB16E77-2D92-4242-8142-6AF8BC8F97B9}|TaskJunction.Service\\TaskJunction.Service.csproj|c:\\users\\gabri\\desktop\\orwimaprojects\\website\\taskjunction\\taskjunction.service\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB16E77-2D92-4242-8142-6AF8BC8F97B9}|TaskJunction.Service\\TaskJunction.Service.csproj|solutionrelative:taskjunction.service\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7B09F-B8B1-4C2F-90E3-E5B791CF175E}|TaskJunction.Repository\\TaskJunction.Repository.csproj|c:\\users\\gabri\\desktop\\orwimaprojects\\website\\taskjunction\\taskjunction.repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7B09F-B8B1-4C2F-90E3-E5B791CF175E}|TaskJunction.Repository\\TaskJunction.Repository.csproj|solutionrelative:taskjunction.repository\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7B09F-B8B1-4C2F-90E3-E5B791CF175E}|TaskJunction.Repository\\TaskJunction.Repository.csproj|c:\\users\\gabri\\desktop\\orwimaprojects\\website\\taskjunction\\taskjunction.repository\\workerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7B09F-B8B1-4C2F-90E3-E5B791CF175E}|TaskJunction.Repository\\TaskJunction.Repository.csproj|solutionrelative:taskjunction.repository\\workerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E2F083-150C-4619-8C80-2B30F996B7C7}|TaskJunction.Models\\TaskJunction.Models.csproj|c:\\users\\gabri\\desktop\\orwimaprojects\\website\\taskjunction\\taskjunction.models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E2F083-150C-4619-8C80-2B30F996B7C7}|TaskJunction.Models\\TaskJunction.Models.csproj|solutionrelative:taskjunction.models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.WebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "TaskJunction.WebAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.WebAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "TaskJunction.WebAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:42:51.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Service\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "TaskJunction.Service\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Service\\DepartmentService.cs",
+              "RelativeToolTip": "TaskJunction.Service\\DepartmentService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAASwEMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:34:13.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Repository\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "TaskJunction.Repository\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Repository\\DepartmentRepository.cs",
+              "RelativeToolTip": "TaskJunction.Repository\\DepartmentRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwEsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:44:40.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6d106b27-1c71-4e4c-97d6-c99ff834552c",
+        "Display": 0,
+        "X": 1969,
+        "Y": 131,
+        "Width": 1522,
+        "Height": 574,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Models\\Department.cs",
+              "RelativeDocumentMoniker": "TaskJunction.Models\\Department.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Models\\Department.cs",
+              "RelativeToolTip": "TaskJunction.Models\\Department.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:53:33.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkerController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.WebAPI\\Controllers\\WorkerController.cs",
+              "RelativeDocumentMoniker": "TaskJunction.WebAPI\\Controllers\\WorkerController.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.WebAPI\\Controllers\\WorkerController.cs",
+              "RelativeToolTip": "TaskJunction.WebAPI\\Controllers\\WorkerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T15:45:40.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Service\\WorkerService.cs",
+              "RelativeDocumentMoniker": "TaskJunction.Service\\WorkerService.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Service\\WorkerService.cs",
+              "RelativeToolTip": "TaskJunction.Service\\WorkerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:44:21.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Repository\\WorkerRepository.cs",
+              "RelativeDocumentMoniker": "TaskJunction.Repository\\WorkerRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\Desktop\\ORWIMAProjects\\Website\\TaskJunction\\TaskJunction.Repository\\WorkerRepository.cs",
+              "RelativeToolTip": "TaskJunction.Repository\\WorkerRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwDkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:46:13.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

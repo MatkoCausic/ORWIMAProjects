@@ -1,0 +1,18 @@
+WEB:
+1. Ime projekta - TaskJunction
+2. Problem koji rješava moja aplikacija - organizacija zadataka i pridavanje istih prigodnim radnicima
+3. Glavne funkcionalnosti - stvaranje task-ova i radnika s titulama
+			  - dodjeljivanje taskova radnicima
+4. Korištene tehnologije - html, css, js, react???
+5. Tri konkurencije - Jira, GitHub, Jotform
+6. Link na prototip - /* TODO: */
+
+MOBILE:
+1. Ime projekta - localFridge
+2. Problem koji rješava moja aplikacija - vođenje popisa stvari u frižideru i stvari koje bi trebali nabaviti
+3. Glavne funkcionalnosti - zapisivanje i spremanje stvari u frižideru
+			  - određivanje koliko čega ima, postavljanje prioriteta na određene proizvode
+			  - ako nemamo minimalan broj prioritiziranih proizvoda, dodaju se na to-buy listu
+4. Korištene tehnologije - ISTRAŽITI
+5. Tri konkurencije - MyFridgeFood, Fridge Pal, Fresh Box
+6. Link na prototip - /* TODO: */
