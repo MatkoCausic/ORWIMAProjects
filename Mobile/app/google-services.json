@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998688459516",
+    "project_id": "localfridge-deb8a",
+    "storage_bucket": "localfridge-deb8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998688459516:android:2acb6dadd0e78b61946579",
+        "android_client_info": {
+          "package_name": "com.example.localfridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnJRNeykuzYRKMf4YN1-9SWZMY9PNOrZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

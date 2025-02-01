@@ -1,6 +1,6 @@
 package com.example.localfridge.data
 
-enum class Unit {
+enum class MeasurementUnit {
     Liters,
     Kilograms,
     Count
